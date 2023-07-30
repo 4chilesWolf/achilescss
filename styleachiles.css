@@ -59,7 +59,7 @@
     padding: 20px 0;
 }
 
-.classe::before {
+.textcontainer::before {
     content: '';
     display: block;
     width: 50px;
