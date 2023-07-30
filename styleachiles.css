@@ -66,8 +66,8 @@
 .container::before {
     content: '';
     display: block;
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 500px;
     background-image:url(https://media.discordapp.net/attachments/805090418344591372/1135010243189932144/39435b62ef5701f20b0dfcbe1f283e31.png);
     background-size: cover;
     background-position: center;
