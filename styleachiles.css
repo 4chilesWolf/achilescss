@@ -38,6 +38,7 @@
     padding: 20px;
     text-align: justify;
     font-family: 'Poppins', sans-serif;
+    position: relative;
 }
 
 .hr1 {
