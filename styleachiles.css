@@ -10,7 +10,7 @@
 }
 
 .containerimg {
-    background:url(https://media.discordapp.net/attachments/805090418344591372/1135010243189932144/39435b62ef5701f20b0dfcbe1f283e31.png);
+    background:url(https://i.imgur.com/2ZCRszA.png);
     width: 100%;
     background-image: cover;
     overflow: hidden;
@@ -68,12 +68,12 @@
     display: block;
     width: 500px;
     height: 500px;
-    background-image:url(https://media.discordapp.net/attachments/805090418344591372/1135010243189932144/39435b62ef5701f20b0dfcbe1f283e31.png);
+    background-image:url(https://i.imgur.com/sHTZKVh.png);
     background-size: cover;
     background-position: center;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    opacity: 20%
+    opacity: 14%
 }
