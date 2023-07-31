@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css2?family=Megrim&family=Raleway&family=Poppins&family=Didact+Gothic&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Megrim&family=Raleway&family=Poppins&family=Didact+Gothic&family=New+Rocker&display=swap);
 
 .container {
     width: 550px;
@@ -20,9 +20,8 @@
 .title {
     background-color: transparent;
     backdrop-filter: blur(2px);
-    font-weight: bold;
-    font-size: 18px;
-    font-family: 'Megrim', cursive;
+    font-size: 28px;
+    font-family: 'New Rocker', cursive;
     color: white;
     border: 1px solid white;
     padding: 20px 0;
