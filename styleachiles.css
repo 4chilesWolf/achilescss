@@ -10,7 +10,7 @@
 }
 
 .containerimg {
-    background:url(https://i.imgur.com/qa8swcA.png);
+    background:url(https://i.imgur.com/LoqUIdR.png);
     width: 100%;
     background-image: cover;
     overflow: hidden;
@@ -65,9 +65,9 @@
 .container::before {
     content: '';
     display: block;
-    width: 500px;
-    height: 500px;
-    background-image:url(https://i.imgur.com/MJ0Hfb4.png);
+    width: 410px;
+    height: 450px;
+    background-image:url(https://i.imgur.com/BGKkVXt.png);
     background-size: cover;
     background-position: center;
     position: absolute;
